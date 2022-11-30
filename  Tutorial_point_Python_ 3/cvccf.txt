@@ -1,0 +1,2 @@
+Total Time for selection sorting: 0.000000 seconds.
+
